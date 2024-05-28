@@ -4,7 +4,7 @@
 
 # Welcome to Spurthi Malode's GitHub!
 
-Hello! 👋 I'm Spurthi, a VLSI enthusiast,  passionate about Design ,DFT and Physical Design constantly exploring the latest advancements in technology. This GitHub repository is where I share my projects, collaborate with other developers, and contribute to the open-source community. 
+Hello! 👋 I'm Spurthi, a VLSI enthusiast with a deep passion for Design, DFT, and Physical Design. I constantly explore the latest advancements in technology. This GitHub repository is where I share my projects, collaborate with fellow developers, and contribute to the open-source community. 
 
 ## 🛠️ Technologies & Tools
 
