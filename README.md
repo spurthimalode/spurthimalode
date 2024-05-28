@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="https://img.freepik.com/premium-vector/cartoon-girl-with-headphones-laptop-cute-vector-illustration_1142-70288.jpg?w=740" width ="500" height="500" alt="Pic"/>
+<div >
+ <img align="right" alt="coding" width="450" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 </div>
 
 # Welcome to Spurthi Malode's GitHub!
