@@ -19,9 +19,9 @@ Hello! 👋 I'm Spurthi, a VLSI enthusiast with a deep passion for Design, DFT, 
 
 ## 📫 How to Reach Me
 
-- Email: [My email ID](spurthimalode@gmail.com)
-- LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/spurthi-malode-3b4147244)
-- Portfolio:[My Portfolio](flowcv.me/spurthi)
+- Email: [spurthimalode@gmail.com]()
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/spurthi-malode-3b4147244)
+- Portfolio:[My Portfolio](https://flowcv.me/spurthi)
 ## 💬 Let's Connect!
 
 I'm always open to new ideas and opportunities. Feel free to reach out if you'd like to collaborate on a project, ask a question, or just say hi!
