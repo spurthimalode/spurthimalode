@@ -10,7 +10,7 @@ Hello! 👋 I'm Spurthi, a VLSI enthusiast with a deep passion for Design, DFT, 
 ## 🛠️ Technologies & Tools
 
 - Languages: Python, C , System Verilog 
-- Tools: Xilinx Vivardo, VS Code, Git , Modus , Tessent , DFT Compiler , TetraMAX
+- Tools: Xilinx Vivado, VS Code, Git , Modus , Tessent , DFT Compiler , TetraMAX
 
 ## 🌱 What I'm Learning
 - Scan Technique , ATPG , MBIST , JTAG
